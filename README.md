@@ -1,6 +1,6 @@
 # Nonflowers
 
-Procedurally generated paintings of nonexistent flowers in Gongbi style for the browser. Generate your own online at https://lingdong-.github.io/nonflowers/.
+Procedurally generated paintings of nonexistent flowers in Gongbi style for the browser. Generate your own online at 
 
 ## Sample Output
 
